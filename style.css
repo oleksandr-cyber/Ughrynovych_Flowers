@@ -194,17 +194,6 @@ button:hover {
     font-size: 30px;
 }
 
-.Denus::before {
-    content: "";
-    background-image: url(https://learn.logikaschool.com/uploads/student/3160679/692c614e973d4.png);
-    background-size: 100%;
-    width: 77px;
-    height: 77px;
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 45px;
-}
-
 footer {
     background-color: yellow;
     padding: 20px 0;
